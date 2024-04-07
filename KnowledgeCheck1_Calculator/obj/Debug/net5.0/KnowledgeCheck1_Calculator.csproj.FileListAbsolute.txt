@@ -1,0 +1,16 @@
+C:\Users\cunn9\Documents\Projects\C#Projects\Software1-Knowledge-Check-1\KnowledgeCheck1_Calculator\bin\Debug\net5.0\KnowledgeCheck1_Calculator.exe
+C:\Users\cunn9\Documents\Projects\C#Projects\Software1-Knowledge-Check-1\KnowledgeCheck1_Calculator\bin\Debug\net5.0\KnowledgeCheck1_Calculator.deps.json
+C:\Users\cunn9\Documents\Projects\C#Projects\Software1-Knowledge-Check-1\KnowledgeCheck1_Calculator\bin\Debug\net5.0\KnowledgeCheck1_Calculator.runtimeconfig.json
+C:\Users\cunn9\Documents\Projects\C#Projects\Software1-Knowledge-Check-1\KnowledgeCheck1_Calculator\bin\Debug\net5.0\KnowledgeCheck1_Calculator.runtimeconfig.dev.json
+C:\Users\cunn9\Documents\Projects\C#Projects\Software1-Knowledge-Check-1\KnowledgeCheck1_Calculator\bin\Debug\net5.0\KnowledgeCheck1_Calculator.dll
+C:\Users\cunn9\Documents\Projects\C#Projects\Software1-Knowledge-Check-1\KnowledgeCheck1_Calculator\bin\Debug\net5.0\KnowledgeCheck1_Calculator.pdb
+C:\Users\cunn9\Documents\Projects\C#Projects\Software1-Knowledge-Check-1\KnowledgeCheck1_Calculator\obj\Debug\net5.0\KnowledgeCheck1_Calculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cunn9\Documents\Projects\C#Projects\Software1-Knowledge-Check-1\KnowledgeCheck1_Calculator\obj\Debug\net5.0\KnowledgeCheck1_Calculator.AssemblyInfoInputs.cache
+C:\Users\cunn9\Documents\Projects\C#Projects\Software1-Knowledge-Check-1\KnowledgeCheck1_Calculator\obj\Debug\net5.0\KnowledgeCheck1_Calculator.AssemblyInfo.cs
+C:\Users\cunn9\Documents\Projects\C#Projects\Software1-Knowledge-Check-1\KnowledgeCheck1_Calculator\obj\Debug\net5.0\KnowledgeCheck1_Calculator.csproj.CoreCompileInputs.cache
+C:\Users\cunn9\Documents\Projects\C#Projects\Software1-Knowledge-Check-1\KnowledgeCheck1_Calculator\obj\Debug\net5.0\KnowledgeCheck1_Calculator.sourcelink.json
+C:\Users\cunn9\Documents\Projects\C#Projects\Software1-Knowledge-Check-1\KnowledgeCheck1_Calculator\obj\Debug\net5.0\KnowledgeCheck1_Calculator.dll
+C:\Users\cunn9\Documents\Projects\C#Projects\Software1-Knowledge-Check-1\KnowledgeCheck1_Calculator\obj\Debug\net5.0\refint\KnowledgeCheck1_Calculator.dll
+C:\Users\cunn9\Documents\Projects\C#Projects\Software1-Knowledge-Check-1\KnowledgeCheck1_Calculator\obj\Debug\net5.0\KnowledgeCheck1_Calculator.pdb
+C:\Users\cunn9\Documents\Projects\C#Projects\Software1-Knowledge-Check-1\KnowledgeCheck1_Calculator\obj\Debug\net5.0\KnowledgeCheck1_Calculator.genruntimeconfig.cache
+C:\Users\cunn9\Documents\Projects\C#Projects\Software1-Knowledge-Check-1\KnowledgeCheck1_Calculator\obj\Debug\net5.0\ref\KnowledgeCheck1_Calculator.dll
