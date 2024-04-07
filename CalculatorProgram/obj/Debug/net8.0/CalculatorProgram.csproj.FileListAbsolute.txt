@@ -1,0 +1,14 @@
+C:\Users\cunn9\OneDrive\Desktop\C# Projects\CalculatorProgram\obj\Debug\net8.0\CalculatorProgram.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cunn9\OneDrive\Desktop\C# Projects\CalculatorProgram\obj\Debug\net8.0\CalculatorProgram.AssemblyInfoInputs.cache
+C:\Users\cunn9\OneDrive\Desktop\C# Projects\CalculatorProgram\obj\Debug\net8.0\CalculatorProgram.AssemblyInfo.cs
+C:\Users\cunn9\OneDrive\Desktop\C# Projects\CalculatorProgram\obj\Debug\net8.0\CalculatorProgram.csproj.CoreCompileInputs.cache
+C:\Users\cunn9\OneDrive\Desktop\C# Projects\CalculatorProgram\bin\Debug\net8.0\CalculatorProgram.exe
+C:\Users\cunn9\OneDrive\Desktop\C# Projects\CalculatorProgram\bin\Debug\net8.0\CalculatorProgram.deps.json
+C:\Users\cunn9\OneDrive\Desktop\C# Projects\CalculatorProgram\bin\Debug\net8.0\CalculatorProgram.runtimeconfig.json
+C:\Users\cunn9\OneDrive\Desktop\C# Projects\CalculatorProgram\bin\Debug\net8.0\CalculatorProgram.dll
+C:\Users\cunn9\OneDrive\Desktop\C# Projects\CalculatorProgram\bin\Debug\net8.0\CalculatorProgram.pdb
+C:\Users\cunn9\OneDrive\Desktop\C# Projects\CalculatorProgram\obj\Debug\net8.0\CalculatorProgram.dll
+C:\Users\cunn9\OneDrive\Desktop\C# Projects\CalculatorProgram\obj\Debug\net8.0\refint\CalculatorProgram.dll
+C:\Users\cunn9\OneDrive\Desktop\C# Projects\CalculatorProgram\obj\Debug\net8.0\CalculatorProgram.pdb
+C:\Users\cunn9\OneDrive\Desktop\C# Projects\CalculatorProgram\obj\Debug\net8.0\CalculatorProgram.genruntimeconfig.cache
+C:\Users\cunn9\OneDrive\Desktop\C# Projects\CalculatorProgram\obj\Debug\net8.0\ref\CalculatorProgram.dll
